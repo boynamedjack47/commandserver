@@ -3,3 +3,7 @@ Client1: Hello
 [DISCONNECTED] Client1 disconnected.
 [CONNECTED] Client1 connected.
 [DISCONNECTED] Client1 disconnected.
+[CONNECTED] Client1 connected.
+[CONNECTED] Client2 connected.
+Client2: /w client1 Hello
+Client1: /w client2 Hello! How are you!
