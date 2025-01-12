@@ -1,2 +1,12 @@
 [CONNECTED] Guest1 connected.
 [CONNECTED] Guest1 connected.
+[CONNECTED] Guest1 connected.
+[CONNECTED] Guest2 connected.
+[USERNAME CHANGE] Guest2 changed their username to jack
+[CONNECTED] Guest1 connected.
+[CONNECTED] Guest2 connected.
+[USERNAME CHANGE] Guest2 changed their username to Jack
+[USERNAME CHANGE] Guest1 changed their username to Kayla
+[WHISPER] Kayla whispered to Jack: Hey!
+[WHISPER] Jack whispered to Kayla: Hello! How are you!
+[KICKED] Kayla was kicked by Jack

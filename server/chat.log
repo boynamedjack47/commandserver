@@ -7,3 +7,17 @@ Client1: Hello
 [CONNECTED] Client2 connected.
 Client2: /w client1 Hello
 Client1: /w client2 Hello! How are you!
+[CONNECTED] Client1 connected.
+[CONNECTED] Client2 connected.
+Client2: /usernmae Jack
+Client2: /username Jack
+Client1: /Username jack
+Client2: /username jack
+[DISCONNECTED] Client1 disconnected.
+[DISCONNECTED] Client2 disconnected.
+[CONNECTED] Client1 connected.
+[CONNECTED] Client2 connected.
+Client2: /username
+Client2: /username jack
+[DISCONNECTED] Client2 disconnected.
+[DISCONNECTED] Client1 disconnected.
